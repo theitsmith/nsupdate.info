@@ -1,5 +1,5 @@
 # packages always needed
-dnspython
+dnspython==1.15.0
 netaddr
 django~=1.11.0
 django-bootstrap-form
