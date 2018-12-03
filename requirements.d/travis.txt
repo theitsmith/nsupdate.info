@@ -3,7 +3,7 @@
 # on travis. the desired version of django is installed via .travis.yml.
 django-debug-toolbar==1.11
 pytest>=3.6
-pytest-django
+pytest-django==3.4.4
 pytest-pep8
 coveralls
 coverage
